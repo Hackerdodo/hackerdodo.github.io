@@ -1,0 +1,57 @@
+.kare {
+    width: 700px;
+    height: 420px;
+    background-color: #ab0000;
+    border-radius: 30px; /* Köşeleri yuvarlak yapar, değeri isteğe bağlı olarak ayarlanabilir */
+    border: 5px solid black;
+}
+#part1{
+    
+    height: 50px;
+}
+h1{
+    padding-left: 20px;
+    color: white;
+    font-size: 40px;
+    
+}
+#part2{
+    
+    height: 240px;
+    background-color: #840101;
+    display: flex;
+}
+#part21{
+    
+    height: 240px;
+    width: 500px;
+    
+    
+}
+p{
+    padding-left: 10px;
+    font-size: 18px;
+    margin: 15px;
+    color: white;
+}
+#part22{
+    
+    height: 240px;
+    width: 200px;
+    
+    
+}
+img{
+    height: 240px;
+    padding-left:16px ;
+}
+#part3{
+    text-align: center;
+    padding-top: 20px;
+    
+
+}
+.son{
+    font-size: 30px;
+    
+}
