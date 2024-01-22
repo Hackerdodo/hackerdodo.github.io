@@ -1,0 +1,57 @@
+.circle-container {
+    display: flex;
+}
+
+.circle {
+    width: 15px;
+    height: 15px;
+    background-color: #3498db; /* Daire rengi */
+    border-radius: 50%; /* Daireyi yuvarlak yapar */
+    margin: 0 10px; /* Daireler arasındaki boşluğu belirler */
+}
+h1 {
+    color: blue;
+    font-size: 50px;
+    padding-left: 10px;
+}
+h2 {
+    color: black;
+    font-size: 40px;
+    padding-left: 10px;
+
+}
+h3 {
+    color: gray;
+    font-size: 30px;
+    padding-left: 10px;
+
+}
+li {
+    
+    font-size: 20px;
+
+}
+p {
+    padding-left: 10px;
+    font-size: 20px;
+
+}
+div#contact{
+    border: 2px solid   purple ;
+    background-color: rgb(179, 179, 179);
+    width: 400px;
+     
+
+}
+a:link, a:visited {
+    color: #fb6542;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  a#email{
+    color: #fb6542;
+
+  }
+
