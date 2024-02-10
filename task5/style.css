@@ -1,0 +1,59 @@
+
+
+header {
+    height: 150px;
+    border-top: 5px solid rgba(0, 0, 255, 0.551);
+    border-bottom: 5px solid rgba(0, 0, 255, 0.551);
+    display: flex;
+            justify-content: center;
+    text-align: center;
+    align-items: center;
+    line-height: 150px; 
+}
+#gövde {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    
+}
+
+#part1 {
+    flex: 2;
+    margin-left: 20px;
+}
+#part2 {
+    flex: 1;
+    margin-left: 20px;
+    
+}
+#part3 {
+    flex: 1;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+text-align: center;
+    
+    
+    
+   
+}
+ul{
+    margin-bottom: 20px;
+}
+li{
+    margin-bottom: 20px;
+}
+.kutu {
+    padding: 20px; /* İçeriği çevreleyen iç boşluk */
+    border: 2px solid rgba(0, 0, 255, 0.551); /* Sınır çizgisi ve rengi */
+    border-radius: 5px; /* Köşe yuvarlama */
+    text-decoration: none; /* Link altı çizgisi kaldırma */
+    color: #333; /* Metin rengi */
+    margin-bottom: 10px;
+    width: 150px;
+}
+h3 {
+    font-size: 24px;
+
+}
